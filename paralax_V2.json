@@ -27,13 +27,13 @@
 
     }
   ],
-  "Categoriesx": [
+  "Categories": [
     {
       "name_category": "1",
       "wallpaper_url": "https://i.pinimg.com/564x/8a/9c/f4/8a9cf4494f5bdddbc236d3fc176f7001.jpg"
     }
   ],
-  "Wallpaperx": [
+  "Wallpaper": [
     {
       "id": 1,
       "name_category": "1",
